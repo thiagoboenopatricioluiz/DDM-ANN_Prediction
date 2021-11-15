@@ -1,1 +1,1 @@
-Output file with the DDM-ANN in RIS.
+Output file with the DDM-ANN in RIS validation.
