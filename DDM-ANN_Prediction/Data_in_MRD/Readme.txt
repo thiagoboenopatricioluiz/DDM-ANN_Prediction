@@ -1,1 +1,1 @@
-Input files for running DDM-ANN with Most Recent Data validation.
+Input files for running DDM-ANN with Most Recent Data validation
