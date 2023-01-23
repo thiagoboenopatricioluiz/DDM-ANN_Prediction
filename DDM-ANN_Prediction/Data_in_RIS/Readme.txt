@@ -1,1 +1,1 @@
-Input files for running DDM-ANN with Random Interactive Sampling validation.
+Input files for running DDM-ANN with Random Interactive Sampling validation. 
